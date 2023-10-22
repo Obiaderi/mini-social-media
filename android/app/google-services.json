@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937557831308",
+    "project_id": "minimal-socio-app",
+    "storage_bucket": "minimal-socio-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937557831308:android:e73a058e0e2a79617495a9",
+        "android_client_info": {
+          "package_name": "com.example.mini_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEnYLONQpNTXnrboGVUGTBlxoEZq5oJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
